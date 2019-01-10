@@ -20,3 +20,6 @@ cp -f ./.vimrc ~
 		1. item1
 		1. item2
 
+```python
+print("test")
+```
