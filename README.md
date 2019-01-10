@@ -23,3 +23,6 @@ cp -f ./.vimrc ~
 ```python
 print("test")
 ```
+
+![Python Logo](/bae/home/Downloads/python.png)
+
