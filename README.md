@@ -24,5 +24,4 @@ cp -f ./.vimrc ~
 print("test")
 ```
 
-![Python Logo](/bae/home/Downloads/python.png)
-Format: ![Alt Text](https://www.python.org/static/opengraph-icon-200x200.png)
+![Alt Text](https://www.python.org/static/opengraph-icon-200x200.png)
