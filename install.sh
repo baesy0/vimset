@@ -3,7 +3,7 @@ if [ ! -d ~/.vim ]; then
 fi
 
 # 젤리빈 테마 설정
-if [ ! -d ~/.vim/colors ] then
+if [ ! -d ~/.vim/colors ]; then
 	mkdir ~/.vim/colors
 fi
 cp ./colors/jellybeans.vim ~/.vim/colors
