@@ -14,6 +14,6 @@ set autoindent		" 엔터를 치거나 O, o로 줄을 삽입할 때 자동으로 
 if has("syntax")
 	syntax on
 endif
-colorsheme jellybeans
+colorscheme jellybeans
 "Python 실행
 map <F8> :w <CR> :!python ./% <CR>
