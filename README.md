@@ -6,6 +6,6 @@
 cd ~
 git clone http://github.com/baesy0/vimset
 cd vimset
-cp -f ./.vimrc ~
+cp -f ./vimrc ~/.vimrc
 ```
 
