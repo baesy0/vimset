@@ -15,5 +15,5 @@ if has("syntax")
 	syntax on
 endif
 colorscheme jellybeans
-"Python 실행
+"===Python 실행===
 map <F8> :w <CR> :!python ./% <CR>
